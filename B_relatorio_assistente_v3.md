@@ -118,7 +118,7 @@ Para cada etapa, liste **todos** os artefatos tangíveis ou digitais que o cidad
 
 ## Dimensão D — Normativos Aplicáveis
 
-> **Correção crítica (audit_v2 A1 e C1):** o **Decreto nº 6.523/2008** foi **integralmente revogado pelo Decreto nº 11.034/2022**. Todas as obrigações de atendimento telefônico (tempo de transferência, registro de atendimento, acessibilidade) que a v2 atribuía ao Decreto 6.523/2008 foram migradas para o Decreto 11.034/2022, que é a norma vigente do SAC.
+> **Correção crítica (audit_v2 A1 e C1):** o Decreto SAC anterior foi **integralmente revogado pelo Decreto nº 11.034/2022**. Todas as obrigações de atendimento telefônico (tempo de transferência, registro de atendimento, acessibilidade) agora se fundamentam no **Decreto 11.034/2022**, norma vigente do SAC.
 
 Para cada etapa, referencie os instrumentos legais que **governam, restringem ou garantem direitos** naquele momento:
 
@@ -127,7 +127,7 @@ Para cada etapa, referencie os instrumentos legais que **governam, restringem ou
 | E1 | **Lei 7.998/1990** (arts. 2º–7º) | Base do Programa SD e FAT | Gerir o benefício conforme critérios legais | Receber SD se elegível |
 | E1 | **Lei 13.134/2015** | Atualização de critérios de elegibilidade | Aplicar critérios revisados de concessão | Acesso conforme novas regras |
 | E1 | **Portaria MTE 290/2021** | Prazos e procedimentos de requerimento | Receber requerimento dentro do prazo (7º–120º dia) | Prazo garantido para requerer |
-| E2–E4 | **Decreto nº 11.034/2022** *(substitui o revogado Decreto 6.523/2008)* | Normas do SAC: acessibilidade, transferência, registro, resolutividade | Oferecer transferência para atendente; registrar protocolo; garantir acessibilidade ao canal; medir resolutividade no 1º contato | Atendimento acessível, protocolo de registro, transferência efetiva |
+| E2–E4 | **Decreto nº 11.034/2022** *(norma SAC vigente)* | Normas do SAC: acessibilidade, transferência, registro, resolutividade | Oferecer transferência para atendente; registrar protocolo; garantir acessibilidade ao canal; medir resolutividade no 1º contato | Atendimento acessível, protocolo de registro, transferência efetiva |
 | E2–E6 | **Lei 13.460/2017** (arts. 5º–9º) | Direitos do usuário de serviço público | Prestar serviço com regularidade, eficiência e cortesia | Protocolo, prazo de resposta, canal de reclamação |
 | E2–E6 | **Decreto 9.094/2017** (arts. 1º–5º) | Simplificação do atendimento / Carta de Serviços | Não exigir do cidadão dados já disponíveis em bases oficiais; usar CPF como identificador suficiente; publicar Carta de Serviços | Atendimento simplificado; CPF como documento único |
 | E3–E4 | **Lei 13.709/2018 — LGPD** | Tratamento de dados pessoais (CPF/NIS) | Garantir segurança e finalidade no uso dos dados | Proteção dos dados pessoais |
@@ -203,7 +203,7 @@ Atores: Caixa / DATAPREV (falha na sincronização); cidadão (absorve).
 **FP-05 — Loop de menu sem transferência para atendente humano**
 Etapa: E3
 Sintoma observado: Cidadão navega em menus que não levam à solução e não consegue ser transferido.
-Causa-raiz: Desenho deficiente da árvore de URA; ausência de opção de transferência para atendente conforme **Decreto nº 11.034/2022** *(norma SAC vigente — o revogado Decreto 6.523/2008 foi substituído)*.
+Causa-raiz: Desenho deficiente da árvore de URA; ausência de opção de transferência para atendente conforme **Decreto nº 11.034/2022** *(norma SAC vigente)*.
 Evidência: Decreto 11.034/2022 (obriga acessibilidade e transferência efetiva); relatos de uso da central 0800.
 Impacto: Abandono da chamada; migração para canal presencial.
 Atores: Caixa (design da URA); cidadão (absorve).
@@ -340,7 +340,7 @@ Atores: Caixa (design do serviço sem resolução no canal); cidadão (absorve).
 - Quando houver lacuna de informação, sinalize com `[DADO NÃO DISPONÍVEL — validar em campo]`.
 - Atribua falhas ao ator correto: canais do MTE são **dependências externas**, não canais da Caixa.
 - Não trate o eSocial como gatilho exclusivo — use "eSocial (regra geral) ou CAGED (hipóteses específicas)".
-- Nunca citar o **Decreto 6.523/2008** — foi revogado pelo **Decreto 11.034/2022**.
+- Citar apenas normas vigentes — usar o **Decreto 11.034/2022** como normativo SAC; não referenciar decretos revogados.
 - Não atribuir causa-raiz a infraestrutura sistêmica (COMPE/STR) sem fonte de auditoria (TCU/CGU/BCB) — marcar como `[PENDENTE]`.
 
 ---
@@ -352,7 +352,7 @@ Atores: Caixa (design do serviço sem resolução no canal); cidadão (absorve).
 - [Lei 7.998/1990 — Planalto](http://www.planalto.gov.br/ccivil_03/leis/l7998compilado.htm)
 - [Lei 13.134/2015 — Planalto](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13134.htm)
 - [Decreto 9.094/2017 — Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9094.htm)
-- [**Decreto 11.034/2022 — Planalto**](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm) *(substitui o revogado Decreto 6.523/2008)*
+- [**Decreto 11.034/2022 — Planalto**](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm) *(norma SAC vigente)*
 - [Res. CODEFAT 957/2022 — LegisWeb](https://www.legisweb.com.br/legislacao/?id=436595)
 - [Empregador Web — MTE](https://sd.maisemprego.trabalho.gov.br/sdweb/empregadorweb/login.jsf)
 - [DATAPREV — Seguro-Desemprego](https://dataprev.gov.br/seguro-desemprego)
