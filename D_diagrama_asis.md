@@ -1,4 +1,4 @@
-# D · Diagrama AS-IS
+﻿# D · Diagrama AS-IS
 ## Atendimento ao Seguro-Desemprego · URA da Caixa Econômica Federal
 
 > Baseado em `C_blueprint_asis.md` · Metodologia: Shostack
@@ -85,6 +85,8 @@ flowchart LR
   FP07[/⚠ FP-07 · Sem protocolo\ngerado ao fim da sessão/]
   FP1B[/⚠ FP-01b · DATAPREV off\nURA silencia ou derruba/]
   FP2B[/⚠ FP-02b · Vínculo não encontrado\nsem diagnóstico de causa/]
+  FP08[/⚠ FP-08 · Crédito em conta errada\nCidadão não localiza parcela/]
+  FP09[/⚠ FP-09 · Parcela emitida\nnão creditada — causa em investigação/]
 
   API   -.->|"latência percebida\ncomo silêncio"| FP4A
   FP4A  -.->|"cidadão desliga"| CID
@@ -94,8 +96,10 @@ flowchart LR
 
   MENU  -.->|"sem rota de escalonamento"| FP05
   FP05  -.->|"cidadão abandona"| CID
+  FP05  -.->|"escalonamento bloqueado"| ATD
 
   SBN   -.->|"dado diverge do MTE"| FP06
+  API   -.->|"sincronização parcial"| FP06
   FP06  -.->|"informação falsa negativa"| CID
 
   CONS  -.->|"sessão encerra\nsem registro"| FP07
@@ -107,13 +111,20 @@ flowchart LR
   API   -.->|"vínculo não encontrado"| FP2B
   FP2B  -.->|"cidadão sem rota"| CID
 
+  CANAIS -.->|"conta não comunicada\nao cidadão"| FP08
+  FP08  -.->|"cidadão vai à agência"| CID
+
+  COMPE -.->|"parcela emitida\nnão liquidada"| FP09
+  SBN   -.->|"status Emitido\nsem crédito"| FP09
+  FP09  -.->|"cidadão aciona\nCaixa e MTE"| CID
+
   %% ── ESTILOS ─────────────────────────────────────────
   classDef fp   fill:#fff1f2,stroke:#b91c1c,color:#7f1d1d
   classDef ura  fill:#f0fdf4,stroke:#15803d,color:#14532d
   classDef sup  fill:#fefce8,stroke:#a16207,color:#713f12
   classDef ho   fill:#f5f3ff,stroke:#6d28d9,color:#3b0764
 
-  class FP4A,FP4B,FP05,FP06,FP07,FP1B,FP2B fp
+  class FP4A,FP4B,FP05,FP06,FP07,FP1B,FP2B,FP08,FP09 fp
   class URA,MENU,AUTH,CONS,ATD ura
   class CTI,API,SBN,COMPE,CANAIS sup
   class GOV,SRT ho

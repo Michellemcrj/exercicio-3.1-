@@ -1,4 +1,4 @@
-# Auditoria Rigorosa do Relatório sobre a OPERAÇÃO do Atendimento ao Seguro-Desemprego pela URA da Caixa
+﻿# Auditoria Rigorosa do Relatório sobre a OPERAÇÃO do Atendimento ao Seguro-Desemprego pela URA da Caixa
 
 A seguir, apresenta-se a **auditoria rigorosa do texto enviado**, considerando **apenas o conteúdo do arquivo** `<File>B\_relatorio\_assistente\_v1.md</File>` e **desconsiderando aspectos cosméticos** (formatação, estilo, ordem), como solicitado. O arquivo se apresenta como uma “auditoria técnica e regulatória” do blueprint do atendimento ao seguro-desemprego via URA da Caixa. citeturn1search1
 
@@ -14,7 +14,9 @@ O texto acerta em **alguns pontos importantes** — por exemplo, ao apontar a re
 
 **Trecho auditado:**
 
-> “...a \*\*URA da Caixa Econômica Federal\*\* (que opera historicamente sob o número \*\*0800 726 0207 ou o atual 111\*\*).” citeturn1search1
+> Trecho de `B_relatorio_assistente_v1.md`, seção **1.1 Inversão de Canais Institucionais**, Justificativa:
+> "...a URA da Caixa Econômica Federal (que opera historicamente sob o número **0800 726 0207 ou o atual 111**)."
+> *(Fonte: B_relatorio_assistente_v1.md, §1.1, linha identificando o escopo da URA — o texto afirma que o canal "atual" seria o 111, quando o 111 é reservado ao Bolsa Família; o canal correto para seguro-desemprego é o 0800 726 0207, conforme FAQ oficial caixa.gov.br/beneficios-trabalhador/seguro-desemprego)*
 
 **Falha:**  
 Isso está **factualmente errado**. No atendimento oficial da Caixa, o **111** aparece como **Atendimento Bolsa Família**, enquanto o canal **0800 726 0207** é o **Atendimento CAIXA Cidadão**, que cobre **PIS, benefícios sociais, FGTS e Cartão Social**. Além disso, a FAQ oficial de seguro-desemprego da Caixa manda consultar a liberação da parcela pelo **0800 726 0207**, não pelo 111. citeturn1search13turn1search26
