@@ -264,46 +264,43 @@ FP-09 — Parcela emitida, não creditada
 
 ## BLOCO 5 — Normativo e operação
 
-### G8 — O normativo que sustenta a URA [FECHADO]
+### G8 — O normativo que sustenta a URA: aplicabilidade do Decreto 11.034/2022 [FECHADO]
 
 **Avaliador:**
-Você substituiu o Decreto 6.523/2008 pelo Decreto 11.034/2022. O Decreto 11.034/2022 regula o SAC de empresas que atuam em setores regulados pelo poder público federal (telecomunicações, energia, planos de saúde, serviços financeiros). A Caixa, operando a URA especificamente para atender ao benefício público Seguro-Desemprego, está atuando como **agente pagador de política pública federal** — não como prestadora de serviço financeiro ao consumidor.
-
-**Pergunta em duas partes:**
-1. O Decreto 11.034/2022 se aplica à Caixa neste contexto específico — ou a obrigação de atendimento telefônico adequado vem de outro instrumento normativo?
-2. Se o Decreto 11.034/2022 não se aplica diretamente, qual norma ocupa esse lugar — e o que muda nas obrigações concretas da Caixa (tempo de transferência, protocolo, acessibilidade)?
+Você substituiu o Decreto 6.523/2008 pelo Decreto 11.034/2022. O Decreto 11.034/2022 regula o SAC de empresas que atuam em setores regulados pelo poder público federal. A Caixa, operando a URA para atender ao Seguro-Desemprego, está atuando como **agente pagador de política pública federal** — não como prestadora de serviço financeiro ao consumidor. O Decreto 11.034/2022 se aplica à Caixa neste contexto específico — ou a obrigação de atendimento telefônico adequado vem de outro instrumento normativo?
 
 **Candidato:**
+O Decreto 11.034/2022 regula o SAC de *"fornecedores de produtos e prestadores de serviços nos setores regulados pelo poder público federal"* (art. 1º), incluindo serviços financeiros. A Caixa Econômica Federal é, institucionalmente, uma instituição financeira federal regulada pelo Banco Central — e, nessa condição, está sujeita ao Decreto 11.034/2022 em seus canais de SAC bancário.
 
-**Parte 1 — Aplicabilidade do Decreto 11.034/2022 à Caixa como agente pagador**
+Contudo, quando a Caixa opera a URA especificamente para atender ao Seguro-Desemprego, ela não está prestando serviço financeiro ao consumidor: está executando função de **agente operador de política pública federal** por delegação do MTE (Lei 7.998/1990, art. 8º, §1º). Nesse papel, a relação é de Direito Administrativo — o cidadão é usuário de serviço público, não consumidor de serviço financeiro.
 
-O Decreto 11.034/2022 regula o SAC de *"fornecedores de produtos e prestadores de serviços nos setores regulados pelo poder público federal"* (art. 1º), com menção explícita a serviços financeiros, telecomunicações, energia elétrica e planos de saúde. A Caixa Econômica Federal é, institucionalmente, uma instituição financeira federal regulada pelo Banco Central — e, nessa condição, está sujeita ao Decreto 11.034/2022 em seus canais de SAC bancário.
+**Conclusão:** o Decreto 11.034/2022 **não se aplica diretamente** a este contexto específico; sua incidência se dá pela identidade institucional da Caixa como IF regulada, mas não pela natureza da transação (benefício público). A norma primária é outra — o que remete à pergunta seguinte.
 
-Contudo, quando a Caixa opera a URA especificamente para atender ao Seguro-Desemprego, ela não está prestando serviço financeiro ao consumidor: está executando função de **agente operador de política pública federal** por delegação do MTE (Lei 7.998/1990, art. 8º, §1º, que designa a Caixa como agente pagador do FAT). Nesse papel, a relação é de Direito Administrativo — o cidadão é usuário de serviço público, não consumidor de serviço financeiro.
+**Avaliador — status G8:** Parcialmente respondido. Pergunta complementar em G8b.
 
-**Conclusão da Parte 1:** o Decreto 11.034/2022 **não se aplica diretamente** a este contexto específico; sua incidência indireta se dá pela identidade institucional da Caixa como IF regulada, mas não pela natureza da transação (benefício público). A norma primária é outra.
+---
 
-**Parte 2 — Norma que ocupa o lugar e o que muda nas obrigações concretas**
+### G8b — O normativo primário e o que muda nas obrigações concretas [FECHADO]
 
-O instrumento normativo primário para a URA da Caixa no atendimento ao Seguro-Desemprego é a **Lei 13.460/2017** (direitos do usuário de serviços públicos), complementada pelo **Decreto 9.094/2017** (simplificação e Carta de Serviços). A **Lei 7.998/1990** governa o próprio benefício e impõe obrigações ao agente pagador quanto à qualidade do serviço prestado.
+**Avaliador:**
+Se o Decreto 11.034/2022 não se aplica diretamente como norma primária, qual norma ocupa esse lugar — e o que muda, concretamente, nas obrigações da Caixa quanto a tempo de transferência, protocolo e acessibilidade?
+
+**Candidato:**
+O normativo primário é a **Lei 13.460/2017** (direitos do usuário de serviços públicos), complementada pelo **Decreto 9.094/2017** (simplificação e Carta de Serviços) e pela **Lei 7.998/1990** (que governa o benefício e impõe obrigações ao agente pagador).
 
 O que muda nas obrigações concretas:
 
 | Obrigação | Decreto 11.034/2022 (SAC — IF) | Lei 13.460/2017 (Serviço Público) |
 |---|---|---|
-| **Transferência para atendente** | Máximo 60 segundos (art. 12) | Sem prazo específico em segundos — exige eficiência e celeridade (art. 5º, II; Decreto 9.094, art. 2º) |
-| **Protocolo de atendimento** | Obrigatório; envio por e-mail/SMS em até 72h (art. 17) | Obrigatório; entregue na hora (art. 8º, II) — sem exigência de envio digital posterior |
+| **Transferência para atendente** | Máximo 60 segundos (art. 12) | Sem prazo em segundos — exige eficiência e celeridade (art. 5º, II; Decreto 9.094, art. 2º) |
+| **Protocolo de atendimento** | Obrigatório; envio por e-mail/SMS em até 72h (art. 17) | Obrigatório; entregue na hora (art. 8º, II) |
 | **Acessibilidade** | Atendimento em Libras via videochamada obrigatório (art. 9º) | Equidade no acesso, sem especificação de modalidade (art. 5º, VI) |
-| **Horário de funcionamento** | 24h × 7 dias para setores críticos (art. 7º) | Sem exigência de 24h — adequação ao horário de funcionamento do serviço |
-| **Gravação das chamadas** | Obrigatória; retenção por 90 dias (art. 21) | Não especificada na Lei 13.460; Decreto 9.094 exige registro de reclamações, não de chamadas |
+| **Horário de funcionamento** | 24h × 7 dias para setores críticos (art. 7º) | Adequação ao horário de funcionamento do serviço |
+| **Gravação das chamadas** | Obrigatória; retenção por 90 dias (art. 21) | Não especificada na Lei 13.460 |
 
-**Impacto nos fail points do blueprint:**
+**Impacto nos fail points:** FP-05 (loop sem transferência) e FP-07 (sem protocolo) permanecem como falhas normativas sob qualquer interpretação. A diferença está na especificidade dos prazos: o Decreto 11.034/2022 dá um prazo de 60 segundos auditável para transferência; a Lei 13.460/2017 exige eficiência sem prazo cronometrado.
 
-- **FP-05 (loop sem transferência)** e **FP-07 (sem protocolo)** permanecem como falhas normativas sob qualquer interpretação — tanto o Decreto 11.034/2022 quanto a Lei 13.460/2017 exigem, respectivamente, rota de escalonamento e protocolo de atendimento.
-- A diferença está na **especificidade das obrigações**: sob o Decreto 11.034/2022, a Caixa teria prazo de 60 segundos auditável para transferência; sob a Lei 13.460/2017, a exigência é de eficiência, sem prazo cronometrado — o que torna a falha mais difícil de quantificar e fiscalizar.
-- **Recomendação para o blueprint AS-IS:** registrar o Decreto 11.034/2022 como normativo de referência subsidiário (por analogia e pelo papel institucional da Caixa como IF) e a Lei 13.460/2017 como primário — garantindo que o mapa de fail points cubra as obrigações mais estritas sem depender de controvérsia interpretativa.
-
-**Avaliador — status G8:** Fechado. Estrutura normativa consolidada: Lei 13.460/2017 como primária (agente pagador de política pública), Decreto 11.034/2022 como subsidiário (IF regulada pelo BCB). FP-05 e FP-07 permanecem como falhas normativas sob ambas as interpretações; prazos concretos dependem de qual norma for aplicada em auditoria formal.
+**Avaliador — status G8b:** Fechado. Estrutura normativa consolidada: Lei 13.460/2017 como primária (agente pagador de política pública), Decreto 11.034/2022 como subsidiário (IF regulada pelo BCB). FP-05 e FP-07 permanecem falhas normativas independente da interpretação adotada.
 
 ---
 
