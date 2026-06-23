@@ -22,7 +22,7 @@ Estruture sua resposta nas cinco dimensões abaixo. Para cada dimensão, percorr
 
 > **E1 — Pré-contato & Habilitação** · **E2 — Acesso à URA Caixa (0800-726-0207)** · **E3 — Navegação e autenticação** · **E4 — Consulta / Orientação** · **E5 — Processamento & Pagamento** · **E6 — Exceção: revisão, recurso e comparecimento presencial**
 
-> **Nota de escopo (audit_v2 A2 e C2):** o título de E2 foi corrigido de "Acesso ao canal (URA/158/digital)" para "Acesso à URA Caixa". O canal 158 (MTE) aparece **somente** na Dimensão B como dependência interorganizacional — nunca como etapa da linha de frente.
+> **Nota de escopo (audit_v2 A2 e C2):** o título de E2 foi corrigido para “**Acesso à URA Caixa (0800-726-0207)**”. O canal 158 (MTE) aparece **somente** na Dimensão B como dependência interorganizacional — nunca como etapa da linha de frente.
 
 ---
 

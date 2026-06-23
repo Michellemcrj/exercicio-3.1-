@@ -3,7 +3,7 @@
 > **Artefato de referência:** `B_relatorio_assistente_v3.md`
 > **Metodologia:** Service Blueprint de Shostack
 > **Data:** 2026-06-22
-> **Status:** G8 em aberto
+> **Status:** todos os blocos fechados (G1–G8)
 
 ---
 
@@ -264,7 +264,7 @@ FP-09 — Parcela emitida, não creditada
 
 ## BLOCO 5 — Normativo e operação
 
-### G8 — O normativo que sustenta a URA [EM ABERTO]
+### G8 — O normativo que sustenta a URA [FECHADO]
 
 **Avaliador:**
 Você substituiu o Decreto 6.523/2008 pelo Decreto 11.034/2022. O Decreto 11.034/2022 regula o SAC de empresas que atuam em setores regulados pelo poder público federal (telecomunicações, energia, planos de saúde, serviços financeiros). A Caixa, operando a URA especificamente para atender ao benefício público Seguro-Desemprego, está atuando como **agente pagador de política pública federal** — não como prestadora de serviço financeiro ao consumidor.
